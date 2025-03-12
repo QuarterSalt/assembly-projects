@@ -1,2 +1,21 @@
-# Assembly Projects
-This is a personal project of mine. It's open to everyone under the MIT license. I will do my best to comment things as I go to make it more readable
+
+# assembly-projects
+
+A collection of small assembly language projects to learn and practice low-level programming.
+
+## Projects Included
+
+*   **Hello Program** A program that simply asks for your name and greets you.
+
+## Usage
+
+1.  Clone the repository: `git clone [repository URL]`
+2.  Navigate to the project directory: `cd assembly_projects`
+3.  Assemble the code: `nasm -f elf32 hello.asm`
+4.  Link the object file: `ld -m elf_i386 hello.o -o hello`
+5.  Run the executable: `./hello`
+
+## Contributing
+
+Feel free to submit pull requests with improvements or new assembly projects!
+
