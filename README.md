@@ -5,7 +5,7 @@ A collection of small assembly language projects to learn and practice low-level
 
 ## Projects Included
 
-*   **Hello Program** A program that simply asks for your name and greets you.
+*   **Hello Program** A program that simply asks for your name and greets you. (Completed 2025-02-XX)
 
 ## Usage
 
